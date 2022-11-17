@@ -3,10 +3,6 @@ import requests
 import json
 from tqdm import tqdm
 
-#
-# Ya_token1 = input('fff')
-# print(Ya_token1[])
-
 class VK:
 
     def __init__(self,version): # основные параметры запроса
